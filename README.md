@@ -1,5 +1,12 @@
-# Advanced badge editor
-An advanced 3DS Badge Editor
+# Advanced Badge Editor + Simple Badge Injector (1.3.1 + 1.2)
+An advanced 3DS Badge Editor for PC and its companion app for 3DS
+
+## Fork
+Advanced Badge Editor (PC) works in tandem with Simple Badge Injector (3DS).
+This fork bundles TurdPooCharger's latest fork of Simple Badge Injector (3DS), which is launchable from the Home menu.
+Drop the .CIA in your CIA folder, and the SimpleBadgeInjector folder into the "3ds" folder (located on the root of your SD card). 
+If you aren't already, follow the guide here: https://gbatemp.net/threads/advanced-badge-editor-create-your-own-badges-and-sets-easily.448520/post-6826374
+It may help you to use FTP to move the files across: https://github.com/mtheall/ftpd/releases https://3ds.eiphax.tech/ftp.html
 
 ## Features
 This app lets you edit your BadgeData.dat and BadgeMngFile.dat files with ease!
@@ -13,4 +20,4 @@ You can also import badge data from *.prb files and set data from *.cab files.
 ## Credits
   - TheMachinumps (Creator)
   - redunka (GBAtemp user)
-  - moonsugar33 (repackaging)
+  - TurdPooCharger (GBAtemp user)
