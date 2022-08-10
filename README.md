@@ -33,4 +33,5 @@ You can also import badge data from *.prb files and set data from *.cab files.
   - TheMachinumps (Creator)
   - redunka (GBAtemp user)
   - TurdPooCharger (GBAtemp user)
+
  https://github.com/TurdPooCharger/Simple_badge_injector/releases
