@@ -8,9 +8,12 @@ This fork bundles TurdPooCharger's latest fork of Simple Badge Injector (3DS), w
 
 Drop the .CIA in your CIA folder, and the SimpleBadgeInjector folder into the "3ds" folder (located on the root of your SD card). 
 
-If you aren't already, follow the guide here: https://gbatemp.net/threads/advanced-badge-editor-create-your-own-badges-and-sets-easily.448520/post-6826374
+If you aren't already, follow the guide here: 
+https://gbatemp.net/threads/advanced-badge-editor-create-your-own-badges-and-sets-easily.448520/post-6826374
 
-It may help you to use FTP to move the files across: https://github.com/mtheall/ftpd/releases https://3ds.eiphax.tech/ftp.html
+It may help you to use FTP to move the files across: 
+  - https://github.com/mtheall/ftpd/releases 
+  - https://3ds.eiphax.tech/ftp.html
 
 ## Features
 This app lets you edit your BadgeData.dat and BadgeMngFile.dat files with ease!
