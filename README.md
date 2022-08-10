@@ -11,5 +11,6 @@ Create your own badges and sets easily, by clicking a button and importing a PNG
 You can also import badge data from *.prb files and set data from *.cab files.
 
 ## Credits
-  - TheMachinumps (me)
+  - TheMachinumps (Creator)
   - redunka (GBAtemp user)
+  - moonsugar33 (repackaging)
