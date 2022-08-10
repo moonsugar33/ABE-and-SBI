@@ -1,5 +1,4 @@
-# Advanced Badge Editor + Simple Badge Injector 
-# (1.3.1 + 1.2)
+# Advanced Badge Editor + Simple Badge Injector (1.3.1 + 1.2)
 An advanced 3DS Badge Editor for PC and its companion app for 3DS
 
 ## Fork
